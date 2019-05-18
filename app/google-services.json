@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89471652656",
+    "firebase_url": "https://comiccollector-f1a7d.firebaseio.com",
+    "project_id": "comiccollector-f1a7d",
+    "storage_bucket": "comiccollector-f1a7d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89471652656:android:652fd2738738f9a7",
+        "android_client_info": {
+          "package_name": "mosis.comiccollector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89471652656-b5l91p8sclsb70utk5t8d2g2n0hf63i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7EvxaV1bVIjgfE7BdsSNVopfbr_9MHn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89471652656-b5l91p8sclsb70utk5t8d2g2n0hf63i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
